@@ -1,0 +1,2 @@
+server.port: 8084
+my.greeting: Microservice (running on 8084) Specific Greeting and priority 1.application.yml - global 2.application specific yml 3.profile based application.yml e.g. application-test.yml
