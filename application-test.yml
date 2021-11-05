@@ -1,0 +1,4 @@
+my:
+  greeting: Hello Testing App for Testing Spring Profiles with Config Server
+  list.greeting: One,Two,Three,Four,Five,Six,Seven,Eight,Nine,Ten
+  map.greeting: "{English:'Hello',Spanish:'Hola',French:'Bonjour',German:'Hallo',Bengali:'Namoshkar'}"
