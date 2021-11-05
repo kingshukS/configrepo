@@ -7,7 +7,7 @@ app:
   name: My Testing App
 
 my:
-  greeting: Hello Testing App from Git config repo in local
+  greeting: Hello Testing App from Git config repo in github.com
   list.greeting: One,Two,Three,Four,Five,Six,Seven
   map.greeting: "{English:'Hello',Spanish:'Hola',French:'Bonjour',German:'Hallo'}"
 
