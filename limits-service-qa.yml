@@ -1,0 +1,5 @@
+limits-service:
+  config:
+    minimum: 2
+    maximum: 22222
+
