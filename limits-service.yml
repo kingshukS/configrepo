@@ -2,23 +2,3 @@ limits-service:
   config:
     minimum: 9
     maximum: 99999
-
-management:
-  security:
-    enabled: false
-  endpoints:
-    web:
-      exposure:
-        include: "*"
-
-spring:
-  rabbitmq:
-    host: localhost
-    port: 5672
-    username: guest
-    password: guest
-  cloud:
-    bus:
-      enabled: true
-      refresh:
-        enabled: true
