@@ -1,5 +1,5 @@
 limits-service:
   config:
-    minimum: 0
+    minimum: 44444
     maximum: 44444
 

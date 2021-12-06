@@ -3,3 +3,10 @@ limits-service:
     minimum: 9
     maximum: 99999
 
+management:
+  security:
+    enabled: false
+  endpoints:
+    web:
+      exposure:
+        include: "*"
