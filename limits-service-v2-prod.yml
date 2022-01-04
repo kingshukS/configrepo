@@ -1,0 +1,4 @@
+limits-service:
+  config:
+    minimum: 20
+    maximum: 2000
